@@ -1,0 +1,21 @@
+.header-conteiner{
+    background-color: chocolate;
+    text-align: 
+}
+.navigation-holder{
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    
+}
+
+.center{
+    background-color:aliceblue;
+    text-align:center;
+    font-size: 30px;
+}
+.holder{
+    background-color:rgb(247, 237, 193);
+    text-align: center;
+}
